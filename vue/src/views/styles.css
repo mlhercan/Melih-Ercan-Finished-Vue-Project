@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(238, 245, 175);
+}
+.form-create{
+    margin-top: 40px;
+    width:15%;
+}
+.form-login{
+    margin-top: 40px;
+    width:15%;
+}
+.form-register{
+    margin-top: 40px;
+    width:15%;
+}
+#createSection{
+    margin-top: 40px;
+}
+.cards{
+    width: 500px;
+}
+.list-group{
+    text-align: left;
+    width: 450px;
+}
+.card{
+    background-color: rgb(249, 212, 49);
+}
+.form-update{
+    margin-top: 40px;
+    width:15%;
+}
+
+
